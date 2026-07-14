@@ -31,7 +31,7 @@ GoldenBoy is a prototype, originally developed as part of a university course. C
 
 ```bash
 # clone the repository
-git clone https://github.com/<your-username>/GoldenBoy.git
+git clone https://github.com/nicolasFsoares/GoldenBoy.git
 cd GoldenBoy
 
 # create and activate a virtual environment
